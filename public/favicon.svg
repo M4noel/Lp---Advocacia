@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="currentColor">
+  <style>
+    :root { color: #1a365d; }
+  </style>
+  <circle cx="50" cy="50" r="45" fill="#2d3748" opacity="0.1"/>
+  <path d="M30 25h40c2.8 0 5 2.2 5 5v40c0 2.8-2.2 5-5 5H30c-2.8 0-5-2.2-5-5V30c0-2.8 2.2-5 5-5z" fill="none" stroke="currentColor" stroke-width="3"/>
+  <path d="M35 45h30M35 55h25M35 65h20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  <path d="M45 35l5 5-5 5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
